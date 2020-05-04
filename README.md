@@ -9,7 +9,7 @@ Atividade realizada:
 
 ------------------------------------------------------------------------------------
 
-1) Um restaurante contratou programadores para implementar um menu para os seus
+Um restaurante contratou programadores para implementar um menu para os seus
 pratos. O restaurante trabalha com café da manhã e almoço e deseja fazer um menu
 para cada refeição. Porém para cada tipo de menu, foram contratados dois
 programadores diferentes. O programador responsável pelo menu do café da manhã
