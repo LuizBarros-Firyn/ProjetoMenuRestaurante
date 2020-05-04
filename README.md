@@ -33,7 +33,9 @@ sua implementação. As funcionalidades que devem ser modificadas devem ser
 os seguintes:
 
 a. Imprimir o menu do café da manhã.
+
 b. Imprimir o menu do almoço.
+
 c. Imprimir todos os pratos vegetarianos do café da manhã e do almoço.
 
 ------------------------------------------------------------------------------------
